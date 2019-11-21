@@ -1,2 +1,2 @@
 # public
-Public projects for sharing
+Public repo for sharing
